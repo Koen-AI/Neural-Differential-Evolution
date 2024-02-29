@@ -1,0 +1,13 @@
+__pycache__/
+NN_logger/
+TestCode/
+OldStuff/
+Data/
+Misc/
+experiment_results/
+recordings/
+results/
+*.txt
+*.pickle
+*.bs
+Checkers.py
